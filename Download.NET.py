@@ -1,9 +1,6 @@
 import requests
 import subprocess
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.edge.service import Service
 
 
 url="https://dotnet.microsoft.com/en-us/download/dotnet-framework"
